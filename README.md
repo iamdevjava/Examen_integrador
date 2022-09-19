@@ -3,5 +3,5 @@
 GRUPO 1
 Alejandro Padron
 Aracelly Peña
-Jose Gabriel Alvarez Molina
+Jose Gabriel Alvarez
 Johann Andrade
